@@ -1,9 +1,13 @@
 <h1 align="left">Hi 👋, I'm Greg</h1>
-<h3 align="left">Data Scientist, Economist, former Risk Manager</h3>
+<h3 align="left">Data Scientist, Economist</h3>
 
-- 🔭 I have just finished my first Data Science project, a real time GDP predictor: We are assessing the GDP in real time rather than waiting for the GDP's official announcements using an XGBoost model. We have used these insights to build an S&P predictor. Check it out: [Beat the Market](https://project-btm-front.streamlit.app/)
+- 👔 Coding some SQL and VBA didn't feel enough in my former role as a Risk Manager. So I decided to kiss goodbye my suits and ties to join the _Data Science & AI_ bootcamp by _Le Wagon_.
 
-- 🌱 I’m currently diving more deeply into Kensas/Tensorflow after having learned about them in a Data Science Bootcamp **Le Wagon Data Science & AI bootcamp**. Anyone feels like starting projects with me? Ideas are highly appreciated..
+- 🔭 As a graduation project we have just trained two cool models to predict GDP growth in real time and the S&P 500 📈. Check it out: [Beat the Market](https://project-btm-front.streamlit.app/)
+
+- 🕺 I loved it and I cannot wait to strengthen my newly gained knowledge. New projects incoming soon!
+
+- 🌱 I’m currently diving more deeply into Kensas/Tensorflow. Anyone feels like starting projects with me? Ideas are highly appreciated..
 
 - 🎛️ Challenge me: I bet I will beat you on _any_ music trivia!
 
@@ -55,4 +59,3 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gre-schmitz&show_icons=true&locale=en&layout=compact" alt="gre-schmitz" /></p>
